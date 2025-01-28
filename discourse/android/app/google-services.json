@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808048469446",
+    "project_id": "cs5520-final-projec",
+    "storage_bucket": "cs5520-final-projec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808048469446:android:f26d691c214344c85e7ec7",
+        "android_client_info": {
+          "package_name": "com.discourse.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWxs2pPRf5qGSKmHJfvVPXyATGL0VfHko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
